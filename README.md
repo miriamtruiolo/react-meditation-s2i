@@ -16,7 +16,7 @@ link: https://react-meditation-s2i.netlify.app/
 
 ## Screenshot
 
-![Banner](https://github.com/miriamtruiolo/react-meditation-s2i/blob/main/src/images/preview.png)
+![Banner](https://github.com/miriamtruiolo/react-meditation-s2i/blob/main/src/img/preview.png)
 
 ## Tecnologie utilizzate
 
